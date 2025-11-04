@@ -3,8 +3,8 @@
 
 ### 📫 Contact
 
-- Wechat: ayangweb
-- Email: ayangweb@foxmail.com
+- Discord tiendung_zzz
+- Group https://discord.gg/hcj93phcUz
 
 ### 💻 Portfolio
 
