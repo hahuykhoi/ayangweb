@@ -1,27 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Vide+Coding)](https://git.io/typing-svg)
 
 
-### 📫 Contact
+### 📫 Liên hệ/Contact
 
 - Discord tiendung_zzz
 - Group https://discord.gg/hcj93phcUz
 
-### 💻 Portfolio
+### 💻 Skills
 
-- 🐱 [BongoCat](https://github.com/ayangweb/BongoCat)  
-  A cross-platform interactive desktop application featuring the iconic Bongo Cat.
+- 📋  Ctrl + c/Ctrl + v
 
-- 📋 [EcoPaste](https://github.com/EcoPasteHub/EcoPaste)  
-  A cross-platform clipboard manager built for speed, simplicity, and productivity.
-
-- 🤖 [Coco AI](https://github.com/infinilabs/coco-app)  
-  A cross-platform app to search, connect, and collaborate — all in one place.
-
-- 🔌 [Tauri Plugins](https://github.com/ayangweb?tab=repositories&q=tauri-plugin&type=source&language=&sort=stargazers)  
-  A collection of plugins to extend and simplify your [Tauri](https://github.com/tauri-apps/tauri) development.
-
-- 🌍 [Bob Plugins](https://github.com/ayangweb?tab=repositories&q=bob-plugin&type=&language=&sort=stargazers)  
-  A collection of plugins to extend your translation workflow with [Bob](https://bobtranslate.com/).
+- 🤖 Thuần Claude Sonnet 4.5
 
 
 ### 🐍 Contribution Snake
